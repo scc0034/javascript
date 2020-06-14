@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MULTI>
+	<PINTORES>
+		<ARTIST>Vincent van Gogh</ARTIST>
+		<OBRA>La noche estrellada</OBRA>
+		<ANO>1853</ANO>
+		<RUTA>img/noche_estrellada.jpg</RUTA>
+		
+	</PINTORES>
+	<PINTORES>
+		<ARTIST>Diego Velázquez</ARTIST>
+		<OBRA>Las meninas</OBRA>
+		<ANO>1599</ANO>
+		<RUTA>img/meninas.jpg</RUTA>
+	</PINTORES>
+</MULTI>
+	
